@@ -751,6 +751,13 @@
 
 	}
 
+	/*เพิ่มเติม*/
+
+	.logo { 
+		 margin: 20px 0px 0px 0px;
+	}
+
+
 /* Basic */
 
 	body {
@@ -1062,6 +1069,10 @@
 		}
 
 /* Nav */
+
+	#nav{
+
+	}
 
 	#nav a {
 		position: relative;
