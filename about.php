@@ -7,7 +7,7 @@
 	<body>
 
 		<!-- Wrapper-->
-			<div id="wrapper">
+			<div id="wrapper" style="padding-top: 37px; opacity: 1;">
 
 				<!-- Nav -->
 					<?php include "wg/menu.php" ?>

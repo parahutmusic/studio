@@ -8,7 +8,7 @@
 	<body>
 
 		<!-- Wrapper-->
-			<div id="wrapper">
+			<div id="wrapper" style="padding-top: 37px; opacity: 1;">
 
 				<!-- Nav -->
 					<?php include "wg/menu.php" ?>
@@ -25,19 +25,22 @@
 									<div>
 										<div class="row">
 											<div class="6u 12u$(mobile)">
-												<input type="text" name="name" placeholder="Name" />
-											</div>
-											<div class="6u$ 12u$(mobile)">
-												<input type="text" name="email" placeholder="Email" />
+												<span class="icon fa-home"> 117 ม.8 ต.หนองธง อ.ป่าบอน จ.พัทลุง</span>
 											</div>
 											<div class="12u$">
-												<input type="text" name="subject" placeholder="Subject" />
+												<span class="icon fa-phone"> 084-185-3266</span>
 											</div>
 											<div class="12u$">
-												<textarea name="message" placeholder="Message" rows="8"></textarea>
+												<span class="icon fa-envelope"> info@parahutmusic.com</span>
 											</div>
 											<div class="12u$">
-												<input type="submit" value="Send Message" />
+												<span class="icon fa-facebook"> พาราฮัท สตูดิโอ</span>
+											</div>
+											<div class="12u$">
+												<span class="icon fa-youtube-play"> PARAHUT MUSIC CHANNEL</span>
+											</div>
+											<div class="12u$">
+												<img src="images/map.jpg" width="100%">
 											</div>
 										</div>
 									</div>
